@@ -1,0 +1,13 @@
+{
+  "extensions": [
+    {
+      "id": "svelte",
+      "name": "Svelte DevTools",
+      "description": "Inspect Svelte component hierarchy",
+      "devtools_page": "devtools.html"
+    }
+  ],
+  "svelte": {
+    "project": "sv_adv_hooks"
+  }
+}
